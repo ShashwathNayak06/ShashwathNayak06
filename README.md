@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Shashwath
+
+🎓 B.Tech Computer Science Student at NMAMIT  
+💻 Interested in Backend Development and Competitive Programming  
+🚀 Currently learning Node.js and System Design  
+📈 Solving problems on Codeforces and LeetCode  
+
+
