@@ -29,10 +29,3 @@ Here are some ideas to get you started:
 - Git
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
-
-## 🧠 Competitive Programming
-
-Codeforces: https://codeforces.com/profile/shashwathnayak658  
-LeetCode: https://leetcode.com/ShashwathNayak06  
-
-https://github.com/Platane/snk
