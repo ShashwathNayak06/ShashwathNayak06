@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ## 🧠 Competitive Programming
 
-Codeforces: https://codeforces.com/profile/YOURID  
-LeetCode: https://leetcode.com/YOURID  
-CodeChef: https://www.codechef.com/users/YOURID
+Codeforces: https://codeforces.com/profile/shashwathnayak658  
+LeetCode: https://leetcode.com/ShashwathNayak06  
+
+https://github.com/Platane/snk
