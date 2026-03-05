@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwathNayak06&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
