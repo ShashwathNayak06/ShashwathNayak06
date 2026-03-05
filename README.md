@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwathNayak06&theme=tokyonight)
