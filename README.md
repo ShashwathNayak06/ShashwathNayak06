@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<!-- Using GitHub's native stats (simpler) -->
-![ShashwathNayak06's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashwathNayak06)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<!-- Alternative: wakatime stats if you use it -->
-<!-- Alternative: github-profile-summary-cards -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 
 ## 🔥 Streak Stats
 
