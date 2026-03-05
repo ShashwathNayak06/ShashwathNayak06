@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShashwathNayak06&theme=tokyonight)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
