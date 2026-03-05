@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - HTML, CSS, JavaScript
 - Git
 
-[![My Skills](https://skillicons.dev/icons?i=java,c++,nodejs,git,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
