@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ShashwathNayak06)
+![trophy](https://github-profile-trophy.vercel.app/?username=ShashwathNayak06&theme=radical&margin-w=15)
