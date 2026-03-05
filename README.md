@@ -32,6 +32,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashwathNayak06&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwathNayak06&layout=compact)
+![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
