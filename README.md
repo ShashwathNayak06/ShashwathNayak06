@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ShashwathNayak06&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashwathNayak06&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwathNayak06&layout=compact)
