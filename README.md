@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ShashwathNayak06)
