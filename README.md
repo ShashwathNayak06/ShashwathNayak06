@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 🚀 Currently learning Node.js and System Design  
 📈 Solving problems on Codeforces and LeetCode  
 
+## 🚀 Tech Stack
 
+- Java
+- Node.js
+- Flask
+- HTML, CSS, JavaScript
+- Git
