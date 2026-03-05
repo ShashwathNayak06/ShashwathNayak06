@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
+## 🧠 Competitive Programming
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShashwathNayak06&theme=radical&margin-w=15)
+Codeforces: https://codeforces.com/profile/YOURID  
+LeetCode: https://leetcode.com/YOURID  
+CodeChef: https://www.codechef.com/users/YOURID
