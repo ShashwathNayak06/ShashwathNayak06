@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 - Git
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
