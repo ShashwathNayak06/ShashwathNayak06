@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,nodejs,git,html,css,js)](https://skillicons.dev)
 
+## 🌐 Connect with Me
+
+[Codeforces](https://codeforces.com/profile/shashwathnayak658)  
+[LeetCode](https://leetcode.com/ShashwathNayak06)  
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
