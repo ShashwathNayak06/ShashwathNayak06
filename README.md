@@ -32,21 +32,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with Me
 
-## 🧠 Competitive Programming
 
-<p align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="leetcode logo"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40" alt="codeforces logo"/>
-  </a>
-
-  <a href="https://codolio.com/profile/YOUR_CODOLIO_ID" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/101270922?s=200&v=4" height="40" alt="codolio logo"/>
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
