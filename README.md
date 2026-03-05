@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Tech Stack
 
-- Java
+- Java/C++
 - Node.js
-- Flask
 - HTML, CSS, JavaScript
 - Git
+
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,flask,git,html,css,js)](https://skillicons.dev)
